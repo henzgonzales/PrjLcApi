@@ -1,0 +1,6 @@
+@PrjLcApi_HostAddress = http://localhost:5269
+
+GET {{PrjLcApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
